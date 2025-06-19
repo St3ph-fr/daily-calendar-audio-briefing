@@ -59,6 +59,8 @@ This Google Apps Script automates the creation of a daily audio briefing. It fet
         *   You might see a "Google hasn’t verified this app" warning. Click "Advanced" and then "Go to (your project name) (unsafe)".
         *   Review the permissions the script needs (manage your calendar, tasks, Drive files, connect to external services) and click "Allow".
 6.  **Set Up a Daily Trigger:**
+    *   Run the function setupDailyAudioBriefing(), it will create a daily trigger that run each morning between 7h and 8h.
+    *   If you prefer you can set the trigger manually, follow the steps below.
     *   In the Apps Script editor, on the left-hand sidebar, click on "Triggers" (⏰ icon).
     *   Click the "+ Add Trigger" button in the bottom right.
     *   Configure the trigger as follows:
