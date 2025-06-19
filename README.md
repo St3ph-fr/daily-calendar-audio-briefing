@@ -1,4 +1,4 @@
-# 🎧 Gemini Powered Daily Audio Briefing (Google Apps Script) 🎧
+# 🎧 Gemini Powered Daily Events Audio Briefing (Google Apps Script) 🎧
 
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com)
 [![Gemini API](https://img.shields.io/badge/Gemini%20API-4A90E2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/docs/gemini_api_overview)
